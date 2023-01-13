@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kartik</h1>
+<h1 align="center">Hi 👋, I'm Cepheus</h1>
 
    🌱 I’m currently learning **JAVA and Game development.**
 
