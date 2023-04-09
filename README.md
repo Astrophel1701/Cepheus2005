@@ -2,8 +2,6 @@
 
    🌱 I’m currently learning **JAVA and Game development.**
 
-   ⚡ Fun fact --> **I love Astronomy and Gaming.**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
