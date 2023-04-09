@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cepheus</h1>
 
-   🌱 I’m currently learning **JAVA and Game development.**
 
 
 
