@@ -1,5 +1,5 @@
 # 💫 About Me
-Greetings Visitor! <br>Cepheus here
+Greetings Visitor! Cepheus here.
 
 
 ## 🌐 Socials
